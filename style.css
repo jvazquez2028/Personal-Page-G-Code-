@@ -10,6 +10,11 @@ li {
     margin: 0 20px;
 }
 
+button#darkMode {
+    padding: 10px 20px;
+    margin-left: 800px;
+}
+
 a {
     text-decoration: none;
 }
